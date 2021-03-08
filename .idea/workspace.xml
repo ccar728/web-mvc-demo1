@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20cfb905-fa31-4957-a256-c6a7fedd2b0d" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/17/5667e7537701b4013b224214f74944.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/43/785aa0dacb6c1ba564b25ce0511695.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4d/34cb5480b8da87f67c18568db1963c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a6/58935ea3218dac47958141b1cbd3e0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a7/0f1c95839f8de9c3c20c670bcd8efe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b5/98868d08d19d60f6312e1495655f7c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/de/03893d5f15fb788cb667463d3aaa0d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e7/6a4d062b6d42bdc7b80596cd748763.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f3/e117a5644dd268aa113c49a10010a0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/.idea/CSS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/file01/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/file01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/图像背景/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/基本选择器/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/基本选择器/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/定位" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/属性选择器/属性选择器.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/浮动/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/美化网页/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/超链接伪类/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/高级选择器/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/.idea/HTML1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/iframe内联框架.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/resource/image/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/图像标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/基本标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/行内元素和块元素.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/表单.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/表格标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/链接标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/音视频.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML1/页面结构.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/00/c034d3bddca09485ff24621a025103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/00/f32180a11471a34b1ce16dcf34f599.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/40/02563175e7d512e6216072f69927cf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/41/7b1df1c9ef1659d607028d3e396ab2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/57/9b08d80764b25b2211b68727ce186d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/88/2bc7909147a40dd3a7382375a49603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/a5/c67fd9747e3fad9b72ce32201a8b70.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/b3/4374f9bed1f1276a4cff5b811894c0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/c0/b4e3375003c5f0874397edde71af1d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/c6/2d170ab7fcae1ea87752038cbfb994.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.cache/d7/c4a1451221b754f0a7700d32d2ce42.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.idea/NaviWeb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/dist/bilibililogo.29d518ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/dist/main.197cb037.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/dist/main.197cb037.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/dist/style.3f57dc4c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/dist/style.3f57dc4c.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/resourse/bilibililogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NaviWeb/src/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OXO.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oxo/oxo.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pQZlntGTpoUONAhwrpyoqKynCW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="20cfb905-fa31-4957-a256-c6a7fedd2b0d" name="默认的" comment="" />
+      <created>1615117428159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615117428159</updated>
+      <workItem from="1615117429444" duration="556000" />
+      <workItem from="1615118099458" duration="5842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
